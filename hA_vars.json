@@ -1,0 +1,10 @@
+{
+	"criteria1": "fs_fa_pb",
+	"valuec1": "Under 2",
+	"criteria2": "fs_fa_curratio",
+	"valuec2": "Over 5",
+	"criteria3": "fs_sec",
+	"valuec3": "Technology",
+	"sortByCrit": "Price",
+	"sortByOrd": "Desc"
+}
